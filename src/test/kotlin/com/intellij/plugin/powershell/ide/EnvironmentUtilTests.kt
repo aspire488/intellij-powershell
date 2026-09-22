@@ -7,7 +7,6 @@ package com.intellij.plugin.powershell.ide
 import org.junit.jupiter.api.Assumptions.assumeTrue
 import org.junit.jupiter.api.Test
 import java.nio.file.Files
-import kotlin.io.path.createDirectories
 import kotlin.io.path.createTempDirectory
 import kotlin.io.path.writeText
 import kotlin.test.assertEquals
